@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/firstReactSite/static/css/main.b90ee8d8.css",
+    "main.js": "/firstReactSite/static/js/main.157a6fcd.js",
+    "static/media/boss.jpg": "/firstReactSite/static/media/boss.404269e480071932e855.jpg",
+    "static/media/homeimg1.png": "/firstReactSite/static/media/homeimg1.cc0eb004202f0550b555.png",
+    "static/media/game.jpg": "/firstReactSite/static/media/game.cc9e887e6185cf2d6e8a.jpg",
+    "static/media/webbDesign.jpg": "/firstReactSite/static/media/webbDesign.828de0ffaab8762d5814.jpg",
+    "static/media/vfx.jpg": "/firstReactSite/static/media/vfx.d2cd3e011095cb5977ea.jpg",
+    "static/media/service1.jpg": "/firstReactSite/static/media/service1.bf536d4551db2a4b4475.jpg",
+    "static/media/app.jpg": "/firstReactSite/static/media/app.5a924a1784c8d77d72d6.jpg",
+    "static/media/marketing.jpg": "/firstReactSite/static/media/marketing.1980bb2325286d795589.jpg",
+    "index.html": "/firstReactSite/index.html",
+    "main.b90ee8d8.css.map": "/firstReactSite/static/css/main.b90ee8d8.css.map",
+    "main.157a6fcd.js.map": "/firstReactSite/static/js/main.157a6fcd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b90ee8d8.css",
+    "static/js/main.157a6fcd.js"
+  ]
+}
